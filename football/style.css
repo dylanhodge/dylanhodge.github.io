@@ -1,10 +1,11 @@
 h1 {
-    text-align: center;
     text-transform: uppercase;
+    font-style: italic;
 }
 
 body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     color: antiquewhite;
     background-color: black;
+    text-align: center;
 }
