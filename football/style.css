@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: antiquewhite;
+    background-color: black;
+}
